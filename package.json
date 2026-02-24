@@ -13,7 +13,7 @@
   "license": "MIT",
   "author": "Vitor Fagundes",
   "type": "module",
-  "main": "index.js",
+  "main": "pages/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next dev"
